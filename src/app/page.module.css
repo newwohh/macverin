@@ -1,0 +1,9 @@
+.main {
+  padding: 3rem 10rem;
+  min-height: 100vh;
+}
+
+.navlink {
+  text-decoration: none;
+  color: black;
+}
